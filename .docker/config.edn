@@ -1,0 +1,6 @@
+{:client-settings
+ {:configuration
+  {:enable-scout-in-compose true
+;;   :language-gateway "http://0.0.0.0:80/v1"
+   :language-gateway "https://api.scout.docker.com/v1/language-gateway"
+   :enable-hadolint true}}}
